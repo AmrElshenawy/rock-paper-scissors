@@ -43,7 +43,7 @@ html {
     overflow: hidden;
     outline:none;
 } 
-#ROCK, #PAPER, #SCISSORS {
+#SCISSORS {
     margin-top: 30px;
     margin-right: 10px;
     color: white;
