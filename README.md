@@ -10,6 +10,8 @@ This project will be revisted in the future which should involve DOM maniuplatio
 
 This project has been completed and updated to include a Graphical User Interface where a user could play the game without the use of     the console.Scores and info are displayed to the user in response to buttons they press.
 
+https://amrelshenawy.github.io/rock-paper-scissors/
+
 If you would like to view the old code for the console game, please view the 'master' branch.
   
 This project utilized the following and the learning outcomes were:
