@@ -5,7 +5,8 @@ This is Rock Paper Scissors game played through console currently, coded in Java
 ~~This project will be revisted in the future which should involve DOM maniuplation to allow the user to interact with a page instead while playing.~~
 
 Update: March 6th 2020
-  This project has been completed and updated to include a Graphical User Interface where a user could play the game without the use of     the console.Scores and info are displayed to the user in response to buttons they press.
+
+This project has been completed and updated to include a Graphical User Interface where a user could play the game without the use of     the console.Scores and info are displayed to the user in response to buttons they press.
   
 This project utilized the following and the learning outcomes were:
 1. HTML, CSS & JavaScript
