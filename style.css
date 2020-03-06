@@ -1,0 +1,100 @@
+html {
+    background-image: url(backgroundimg.jpg);
+}
+.heading {
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    color: white;
+    text-shadow: 0 0 10px white;
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+
+#msg, #msg2, #scoreboard, #round {
+    color: white;
+    text-shadow: 0 0 10px white;
+}
+.info {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin: 40px 0;
+}
+.buttons {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.buttons #START {
+    display: block;
+    margin: auto;
+    text-align: center;
+    color: whitesmoke;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 2px solid white;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 25px;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+} 
+#ROCK, #PAPER, #SCISSORS {
+    margin-top: 30px;
+    margin-right: 10px;
+    color: white;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 2px solid white;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 25px;
+    overflow: hidden;
+    outline:none;
+}
+#ROCK, #PAPER {
+    margin-top: 30px;
+    margin-right: 10px;
+    color: white;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 2px solid white;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 40px;
+    overflow: hidden;
+    outline:none;
+}
+#START:hover, #ROCK:hover, #PAPER:hover, #SCISSORS:hover {
+    box-shadow: 0 0 20px white;
+    text-shadow: 0 0 10px white;
+    cursor:pointer;   
+}
+#START:disabled, #ROCK:disabled, #PAPER:disabled, #SCISSORS:disabled {
+    opacity: 0.5;
+    box-shadow: none;
+    text-shadow: none;
+    cursor: not-allowed;
+}
+#msg2, #scoreboard {
+    margin: 20px 0;
+}
+.footer p {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-shadow: 0 0 6px white;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+.highlights {
+    color: turquoise;
+    text-shadow: 0 0 10px turquoise;
+}
